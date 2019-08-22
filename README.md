@@ -1,5 +1,5 @@
 # readurl
-Read URL function using CURL that supports custom headers, cookies, browser agent, authentication.
+Read URL PHP function using CURL that supports custom headers, cookies, browser agent, authentication.
 
 You can POST/GET (and DELETE) any URL resource with this ReadURL function.
 
